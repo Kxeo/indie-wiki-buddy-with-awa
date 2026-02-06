@@ -62,7 +62,7 @@ Indie Wiki Buddy also supports [BreezeWiki](https://breezewiki.com/), a service 
 Contributions are welcome and encouraged! You can either open a pull request to add a new wiki, or [open an issue](https://github.com/Kxeo/indie-wiki-buddy-with-awa/issues/new?assignees=KevinPayravi&labels=add+wiki&template=request-a-wiki-be-added.md&title=Add+a+wiki%3A+WIKI+NAME).
 
 ## Criteria for inclusion
-In this fork, apart from the fact that some extra Anti-Wikia Alliance wikis are included, the criteria remain the same:
+In this fork, apart from the fact that some extra wikis listed on the Anti-Wikia Alliance's [list of forked wikis](https://awa.shoutwiki.com/wiki/Forked_wikis) are included, the criteria remain the same:
 * The wiki should be editable by the public (that's what makes a wiki a wiki!)
 * The destination wiki should be independent, meaning that decision-making and control of the wiki largely rests with the wiki's staff and volunteer editing community.
   * Factors include editorial independence, the editorbase's ability to request changes from their host, and any history of the host exerting decisions contrary to a wiki community's wishes.
