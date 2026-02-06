@@ -4487,6 +4487,26 @@
     "destination_content_path": "/wiki/"
   },
   {
+    "id": "en-ga2dojo",
+    "origins_label": "GetAmped2 Dojo Fandom Wiki",
+    "origins": [
+      {
+        "origin": "GetAmped2 Dojo Fandom Wiki",
+        "origin_base_url": "ga2dojo.fandom.com",
+        "origin_content_path": "/wiki/",
+        "origin_main_page": "GetAmped2_Dojo_Wiki"
+      }
+    ],
+    "destination": "GetAmped2 Dojo Wiki",
+    "destination_base_url": "ga2dojo.wiki.gg",
+    "destination_platform": "mediawiki",
+    "destination_icon": "ga2dojo.png",
+    "destination_main_page": "GetAmped2 Dojo Wiki",
+    "destination_search_path": "/index.php",
+    "destination_content_path": "/wiki/",
+    "destination_host": "wiki.gg"
+  },
+  {
     "id": "en-galaxylife",
     "origins_label": "Galaxy Life Fandom Wiki",
     "origins": [
