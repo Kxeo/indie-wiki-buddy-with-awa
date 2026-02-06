@@ -42,10 +42,10 @@
 ![Weblate translation status](https://img.shields.io/weblate/progress/indie-wiki-buddy?style=flat-square&logo=weblate&color=%232E8C6A)
 
 Extra wikis:
-* lostmediaarchive.fandom.com → lostmediawiki.com
-* kingkiller.fandom.com → kingkiller.wiki
-* xyy.fandom.com → xyy.miraheze.org
 * ga2dojo.fandom.com → ga2dojo.wiki.gg
+* kingkiller.fandom.com → kingkiller.wiki
+* lostmediaarchive.fandom.com → lostmediawiki.com
+* xyy.fandom.com → xyy.miraheze.org
 
 ----
 
