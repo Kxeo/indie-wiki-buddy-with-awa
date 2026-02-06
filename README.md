@@ -1,6 +1,6 @@
 # Indie Wiki Buddy with Anti-Wikia Alliance wikis
 
-Indie Wiki Buddy is a browser extension that automatically notifies and redirects you from wikis on large, corporate-run wiki farms to independent wikis. This is a fork of that extension that also has wikis from the Anti-Wikia Alliance packaged.
+[Indie Wiki Buddy](https://github.com/KevinPayravi/indie-wiki-buddy) is a browser extension that automatically notifies and redirects you from wikis on large, corporate-run wiki farms to independent wikis. This is a fork of that extension that also has wikis from the Anti-Wikia Alliance packaged.
 
 * Learn more at [getindie.wiki](https://getindie.wiki/).
 * To download this forked version, go to [releases](https://github.com/Kxeo/indie-wiki-buddy-with-awa) page.
@@ -41,6 +41,12 @@ Indie Wiki Buddy is a browser extension that automatically notifies and redirect
 
 ![Weblate translation status](https://img.shields.io/weblate/progress/indie-wiki-buddy?style=flat-square&logo=weblate&color=%232E8C6A)
 
+Extra wikis:
+* lostmediaarchive.fandom.com → lustmediawiki.com
+* kingkiller.fandom.com → kingkiller.wiki
+* xyy.fandom.com → xyy.miraheze.org
+* ga2dojo.fandom.com → ga2dojo.wiki.gg
+
 ----
 
 Large, corporate-run wiki farms have enabled hundreds of great wikis and communities. Unfortunately, these wiki farms can easily overshadow quality independent wikis, especially in search engine results. Independent wikis often have the benefit of greater self-determination and fewer ads, but are easily missed by users who aren't aware of their existence.
@@ -56,7 +62,7 @@ Indie Wiki Buddy also supports [BreezeWiki](https://breezewiki.com/), a service 
 Contributions are welcome and encouraged! You can either open a pull request to add a new wiki, or [open an issue](https://github.com/Kxeo/indie-wiki-buddy-with-awa/issues/new?assignees=KevinPayravi&labels=add+wiki&template=request-a-wiki-be-added.md&title=Add+a+wiki%3A+WIKI+NAME).
 
 ## Criteria for inclusion
-In this fork, apart from the fact that all Anti-Wikia Alliance wikis are included, the criteria remain the same:
+In this fork, apart from the fact that some extra Anti-Wikia Alliance wikis are included, the criteria remain the same:
 * The wiki should be editable by the public (that's what makes a wiki a wiki!)
 * The destination wiki should be independent, meaning that decision-making and control of the wiki largely rests with the wiki's staff and volunteer editing community.
   * Factors include editorial independence, the editorbase's ability to request changes from their host, and any history of the host exerting decisions contrary to a wiki community's wishes.
