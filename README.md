@@ -1,9 +1,9 @@
-# Indie Wiki Buddy with Anti-Wikia Alliance wikis
+# Indie Wiki Buddy with Anti-Wikia Alliance wikis (unfinished, archived)
 
 [Indie Wiki Buddy](https://github.com/KevinPayravi/indie-wiki-buddy) is a browser extension that automatically notifies and redirects you from wikis on large, corporate-run wiki farms to independent wikis. This is a fork of that extension that also has wikis from the Anti-Wikia Alliance packaged.
 
 * Learn more at [getindie.wiki](https://getindie.wiki/).
-* To download this forked version, go to [releases](https://github.com/Kxeo/indie-wiki-buddy-with-awa) page.
+* I once planned the [releases](https://github.com/Kxeo/indie-wiki-buddy-with-awa) page to be where you downloaded this forked version. But, I have a much better idea now that makes this pointless.
 * To download the original Indie Wiki Buddy:
  * [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/)
  * [Download for Chrome](https://chrome.google.com/webstore/detail/indie-wiki-buddy/fkagelmloambgokoeokbpihmgpkbgbfm)
